@@ -1,0 +1,6 @@
+repo: caf260adc4535a30ea448b565cf05de1f7b4c61f
+node: 9813b17ee09677afd1d1a503759058740eb350b5
+branch: default
+latesttag: 0.9.1
+latesttagdistance: 28
+changessincelatesttag: 49
